@@ -15,3 +15,5 @@ function createTableBody(array) {
 }
 
 createTableBody(calendar);
+
+export default calendar;
